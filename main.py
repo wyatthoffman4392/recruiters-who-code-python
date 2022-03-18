@@ -6,8 +6,8 @@ def main():
     message = 'Hola Mundo! My name is John'  # message is of type str meaning string
     age= 20 # age is of type int meaning integer
     
-    print(message)
-    print(age)
+    print(message) # prints message data to command line
+    print(age)  # prints age data to command line
 
 if __name__ == '__main__':
     main()
