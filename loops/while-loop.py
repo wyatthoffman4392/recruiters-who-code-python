@@ -2,7 +2,7 @@ def main():
     i = 1
 
     # while loops only execute as long as a condition is true
-    while i < 25:
+    while i <= 25:
         print(i)
         i += 2
     else:
