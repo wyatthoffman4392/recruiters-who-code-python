@@ -9,3 +9,6 @@ class Car:
 
 my_car = Car(1998, 'Honda', 'Civic')
 my_car.get_car_info()
+
+my_car = Car(2001, 'Toyota', 'Camry')
+my_car.get_car_info()
